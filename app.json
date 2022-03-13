@@ -1,6 +1,7 @@
 {
   "name": "Discord Twitter Bot",
   "description": "Posts Twitter tweets to Discord through Webhook",
+  "repository": "https://github.com/thetrashcrew/discord-twitter-bot",
   "keywords": [
     "discord",
     "bot",
